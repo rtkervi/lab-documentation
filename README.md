@@ -16,3 +16,5 @@ Follow the instructions to set up and use the documentation tool.
 ## Future Plans
 - Implement version control for documents
 - Add collaboration features
+
+We welcome contributions from the community! Please feel free to submit pull requests.
